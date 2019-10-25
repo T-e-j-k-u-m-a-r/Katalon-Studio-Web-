@@ -1,1 +1,4 @@
 This is demonstration of implementing WEB Automation using Katalong Studiu Version: 7.0.3
+
+
+---NOTE: The scope of this project is: Web Automation ONLY
