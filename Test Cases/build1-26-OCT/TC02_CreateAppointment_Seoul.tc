@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_CreateAppointment_Seoul</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cb8d9a0-8ded-4e50-adb1-bfb608612a1d</testCaseGuid>
+</TestCaseEntity>
